@@ -1,0 +1,497 @@
+[
+    {
+      "name": "Bulbasaur",
+      "type": "Hierba",
+      "category": "Semilla",
+      "image": "assets/Bulbasaur.png",
+      "description": "Bulbasaur puede ser visto durmiendo a pleno sol. Hay una semilla en su espalda. Al absorber los rayos del sol, la semilla crece progresivamente más grande.",
+      "abilities": ["Overgrow"],
+      "weaknesses": ["Fuego", "Hielo", "Volador", "Psíquico"]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fuego",
+      "category": "Lagarto",
+      "image": "assets/Charmander.png",
+      "description": "La llama en la cola de Charmander indica la fuerza vital de Charmander. Si está sano, la llama arde con fuerza. Cuando está cansado, parpadea débilmente.",
+      "abilities": ["Blaze"],
+      "weaknesses": ["Agua", "Tierra", "Roca"]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Agua",
+      "category": "Tortuga",
+      "image": "assets/Squirtle.png",
+      "description": "La concha de Squirtle no solo se utiliza para protección. La forma redondeada de la concha y las ranuras en su superficie ayudan a minimizar la resistencia en el agua, permitiendo a este Pokémon nadar a altas velocidades.",
+      "abilities": ["Torrent"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Eléctrico",
+      "category": "Ratón",
+      "image": "assets/pikachu.jpg",
+      "description": "Pikachu puede generar cargas eléctricas, que se liberan a través de sus mejillas rojas. Pikachu tiene pelaje corto y amarillo con rayas marrones en la espalda.",
+      "abilities": ["Static"],
+      "weaknesses": ["Tierra"]
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "category": "Evolución",
+      "image": "assets/Eevee.png",
+      "description": "Eevee tiene una composición genética inestable que muta repentinamente debido al entorno en el que vive. La radiación de varias piedras hace que este Pokémon evolucione.",
+      "abilities": ["Run Away", "Adaptability"],
+      "weaknesses": ["Lucha"]
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psíquico",
+      "category": "Genético",
+      "image": "assets/Mewtwo.png",
+      "description": "Mewtwo es un Pokémon que fue creado mediante manipulación genética. Sin embargo, aunque el poder científico de los humanos creó el cuerpo de este Pokémon, no lograron dotar a Mewtwo de un corazón compasivo.",
+      "abilities": ["Pressure", "Unnerve"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Vaporeon",
+      "type": "Agua",
+      "category": "Burbuja",
+      "image": "assets/Vaporeon.png",
+      "description": "Vaporeon sufrió una mutación genética debido a la exposición a la radiación de piedras evolutivas. Esta mutación le permitió convertirse en un excelente nadador, y su piel se transformó en una especie de membrana que le permite nadar rápidamente sin fatigarse.",
+      "abilities": ["Water Absorb"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Jolteon",
+      "type": "Eléctrico",
+      "category": "Relámpago",
+      "image": "assets/Jolteon.png",
+      "description": "Jolteon genera electricidad estática en su pelaje. Las púas de su piel pueden liberar descargas eléctricas cuando se encuentra en peligro o enojado. Tiene la capacidad de lanzar rayos desde su pelaje cargado.",
+      "abilities": ["Volt Absorb"],
+      "weaknesses": ["Tierra"]
+    },
+    {
+      "name": "Flareon",
+      "type": "Fuego",
+      "category": "Llama",
+      "image": "assets/Flareon.png",
+      "description": "Flareon controla su temperatura corporal mediante la combustión de sustancias en su interior. Las llamas que emanan de su piel son una indicación de su estado de ánimo y nivel de energía.",
+      "abilities": ["Flash Fire"],
+      "weaknesses": ["Agua", "Tierra", "Roca"]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "category": "Duerme",
+      "image": "assets/Snorlax.png",
+      "description": "Snorlax es un Pokémon extremadamente perezoso que se pasa la mayor parte del tiempo durmiendo y comiendo. Su apetito voraz y su habilidad para dormir en cualquier lugar lo convierten en una fuerza imparable cuando es provocado.",
+      "abilities": ["Immunity", "Thick Fat"],
+      "weaknesses": ["Lucha"]
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragón",
+      "category": "Dragón",
+      "image": "assets/Dragonite.png",
+      "description": "Dragonite es conocido por su capacidad para volar a velocidades increíbles. Su cuerpo está compuesto principalmente de músculo, lo que le permite levantar objetos extremadamente pesados sin esfuerzo.",
+      "abilities": ["Inner Focus", "Multiscale"],
+      "weaknesses": ["Hielo", "Dragón", "Hada"]
+    },
+    {
+      "name": "Gyarados",
+      "type": "Agua",
+      "category": "Atrocidad",
+      "image": "assets/Gyarados.png",
+      "description": "Gyarados es famoso por su temperamento violento y su capacidad para destruir ciudades enteras cuando se enfurece. Sin embargo, hay quienes creen que Gyarados es en realidad un Pokémon pacífico que solo se vuelve agresivo cuando se siente amenazado.",
+      "abilities": ["Intimidate", "Moxie"],
+      "weaknesses": ["Eléctrico", "Roca"]
+    },
+    {
+      "name": "Alakazam",
+      "type": "Psíquico",
+      "category": "Místico",
+      "image": "assets/Alakazam.png",
+      "description": "Alakazam tiene un coeficiente intelectual extremadamente alto y posee habilidades telepáticas avanzadas. Su cerebro se desarrolló tanto que puede calcular miles de movimientos en segundos.",
+      "abilities": ["Synchronize", "Inner Focus"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Gengar",
+      "type": "Fantasma",
+      "category": "Sombra",
+      "image": "assets/Gengar.png",
+      "description": "Gengar disfruta asustando a la gente con sus habilidades de manipulación de sombras. Se cree que Gengar se alimenta de los sueños de los que duermen profundamente por la noche.",
+      "abilities": ["Cursed Body"],
+      "weaknesses": ["Psíquico", "Siniestro"]
+    },
+    {
+      "name": "Arcanine",
+      "type": "Fuego",
+      "category": "Llama",
+      "image": "assets/Arcanine.png",
+      "description": "Arcanine es conocido por su velocidad y ferocidad en la batalla. Es un aliado leal y protector que nunca abandona a sus amigos en momentos de necesidad.",
+      "abilities": ["Intimidate", "Flash Fire"],
+      "weaknesses": ["Agua", "Tierra", "Roca"]
+    },
+    {
+      "name": "Machamp",
+      "type": "Lucha",
+      "category": "Súperpoder",
+      "image": "assets/Machamp.png",
+      "description": "Machamp es conocido por su increíble fuerza y habilidad para levantar objetos extremadamente pesados. Su cuerpo musculoso es una máquina de batalla imparable en el campo de batalla.",
+      "abilities": ["Guts", "No Guard"],
+      "weaknesses": ["Volador", "Psíquico", "Hada"]
+    },
+    {
+      "name": "Golem",
+      "type": "Roca",
+      "category": "Megatón",
+      "image": "assets/Golem.png",
+      "description": "Golem es extremadamente resistente y puede resistir explosiones nucleares sin sufrir daños. Su cuerpo rocoso es tan duro que incluso los golpes más poderosos apenas pueden hacerle mella.",
+      "abilities": ["Rock Head", "Sturdy"],
+      "weaknesses": ["Agua", "Planta", "Lucha", "Tierra", "Acero"]
+    },
+    {
+      "name": "Muk",
+      "type": "Veneno",
+      "category": "Lodo",
+      "image": "assets/Muk.png",
+      "description": "Muk se forma a partir de residuos tóxicos que se han acumulado en el medio ambiente. Aunque su apariencia es repugnante, Muk juega un papel vital en la eliminación de desechos nocivos del ecosistema.",
+      "abilities": ["Stench", "Sticky Hold"],
+      "weaknesses": ["Psíquico", "Tierra"]
+    },
+    {
+      "name": "Gyarados",
+      "type": "Agua",
+      "category": "Atrocidad",
+      "image": "assets/Gyarados.png",
+      "description": "Gyarados es famoso por su temperamento violento y su capacidad para destruir ciudades enteras cuando se enfurece. Sin embargo, hay quienes creen que Gyarados es en realidad un Pokémon pacífico que solo se vuelve agresivo cuando se siente amenazado.",
+      "abilities": ["Intimidate", "Moxie"],
+      "weaknesses": ["Eléctrico", "Roca"]
+    },
+    {
+      "name": "Alakazam",
+      "type": "Psíquico",
+      "category": "Místico",
+      "image": "assets/Alakazam.png",
+      "description": "Alakazam tiene un coeficiente intelectual extremadamente alto y posee habilidades telepáticas avanzadas. Su cerebro se desarrolló tanto que puede calcular miles de movimientos en segundos.",
+      "abilities": ["Synchronize", "Inner Focus"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Gengar",
+      "type": "Fantasma",
+      "category": "Sombra",
+      "image": "assets/Gengar.png",
+      "description": "Gengar disfruta asustando a la gente con sus habilidades de manipulación de sombras. Se cree que Gengar se alimenta de los sueños de los que duermen profundamente por la noche.",
+      "abilities": ["Cursed Body"],
+      "weaknesses": ["Psíquico", "Siniestro"]
+    },
+    {
+      "name": "Arcanine",
+      "type": "Fuego",
+      "category": "Llama",
+      "image": "assets/Arcanine.png",
+      "description": "Arcanine es conocido por su velocidad y ferocidad en la batalla. Es un aliado leal y protector que nunca abandona a sus amigos en momentos de necesidad.",
+      "abilities": ["Intimidate", "Flash Fire"],
+      "weaknesses": ["Agua", "Tierra", "Roca"]
+    },
+    {
+      "name": "Machamp",
+      "type": "Lucha",
+      "category": "Súperpoder",
+      "image": "assets/Machamp.png",
+      "description": "Machamp es conocido por su increíble fuerza y habilidad para levantar objetos extremadamente pesados. Su cuerpo musculoso es una máquina de batalla imparable en el campo de batalla.",
+      "abilities": ["Guts", "No Guard"],
+      "weaknesses": ["Volador", "Psíquico", "Hada"]
+    },
+    {
+      "name": "Golem",
+      "type": "Roca",
+      "category": "Megatón",
+      "image": "assets/Golem.png",
+      "description": "Golem es extremadamente resistente y puede resistir explosiones nucleares sin sufrir daños. Su cuerpo rocoso es tan duro que incluso los golpes más poderosos apenas pueden hacerle mella.",
+      "abilities": ["Rock Head", "Sturdy"],
+      "weaknesses": ["Agua", "Planta", "Lucha", "Tierra", "Acero"]
+    },
+    {
+      "name": "Muk",
+      "type": "Veneno",
+      "category": "Lodo",
+      "image": "assets/Muk.png",
+      "description": "Muk se forma a partir de residuos tóxicos que se han acumulado en el medio ambiente. Aunque su apariencia es repugnante, Muk juega un papel vital en la eliminación de desechos nocivos del ecosistema.",
+      "abilities": ["Stench", "Sticky Hold"],
+      "weaknesses": ["Psíquico", "Tierra"]
+    },
+    {
+      "name": "Lapras",
+      "type": "Agua",
+      "category": "Transporte",
+      "image": "assets/Lapras.png",
+      "description": "Lapras es conocido por su amabilidad y disposición para ayudar a los entrenadores en el mar. Su espalda está cubierta de una gruesa capa de piel que le permite transportar pasajeros sobre el agua.",
+      "abilities": ["Water Absorb", "Shell Armor"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Aerodactyl",
+      "type": "Roca",
+      "category": "Fósil",
+      "image": "assets/Aerodactyl.png",
+      "description": "Aerodactyl es un Pokémon antiguo que se cree que se extinguió hace millones de años. Sin embargo, ha sido revivido a partir de fósiles y ahora vuela por los cielos con una velocidad increíble.",
+      "abilities": ["Rock Head", "Pressure", "Unnerve"],
+      "weaknesses": ["Agua", "Eléctrico", "Hielo", "Roca", "Acero"]
+    },
+    {
+      "name": "Venusaur",
+      "type": "Hierba",
+      "category": "Semilla",
+      "image": "assets/Venusaur.png",
+      "description": "Venusaur es la forma evolucionada de Bulbasaur y cuenta con una flor en su espalda que libera un aroma embriagador. Esta flor es un indicador de la salud de Venusaur y su poder en la batalla.",
+      "abilities": ["Overgrow", "Chlorophyll"],
+      "weaknesses": ["Fuego", "Hielo", "Volador", "Psíquico"]
+    },
+    {
+      "name": "Blaziken",
+      "type": "Fuego",
+      "category": "Gallina",
+      "image": "assets/Blaziken.png",
+      "description": "Blaziken es conocido por su velocidad y habilidades de combate cuerpo a cuerpo. Sus patadas son tan poderosas que pueden incendiar el aire a su alrededor.",
+      "abilities": ["Blaze", "Speed Boost"],
+      "weaknesses": ["Agua", "Tierra", "Roca"]
+    },
+    {
+      "name": "Swampert",
+      "type": "Agua",
+      "category": "Lodo",
+      "image": "assets/Swampert.png",
+      "description": "Swampert es un Pokémon extremadamente fuerte y resistente. Puede cargar con pesos extremadamente pesados y su piel gruesa lo protege de ataques físicos y climáticos.",
+      "abilities": ["Torrent", "Damp"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Sceptile",
+      "type": "Hierba",
+      "category": "Bosque",
+      "image": "assets/Sceptile.png",
+      "description": "Sceptile es conocido por su velocidad y agilidad en el campo de batalla. Sus hojas son afiladas como navajas y pueden cortar incluso el metal más resistente.",
+      "abilities": ["Overgrow", "Unburden"],
+      "weaknesses": ["Fuego", "Hielo", "Volador", "Bicho"]
+    },
+    {
+      "name": "Metagross",
+      "type": "Acero",
+      "category": "Iron Leg",
+      "image": "assets/Metagross.png",
+      "description": "Metagross es un Pokémon extremadamente inteligente con un cerebro formado por cuatro cuerpos unidos. Puede calcular miles de movimientos en segundos y planificar estrategias complejas en la batalla.",
+      "abilities": ["Clear Body", "Light Metal"],
+      "weaknesses": ["Fuego", "Tierra", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Gardevoir",
+      "type": "Psíquico",
+      "category": "Emoción",
+      "image": "assets/Gardevoir.png",
+      "description": "Gardevoir puede leer los pensamientos y las emociones de los seres humanos y Pokémon. Es conocido por su lealtad y disposición para proteger a su entrenador a cualquier costo.",
+      "abilities": ["Synchronize", "Trace"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Slaking",
+      "type": "Normal",
+      "category": "Holgazán",
+      "image": "assets/Slaking.png",
+      "description": "Slaking es extremadamente perezoso y solo se despierta para comer y luchar. Aunque su fuerza es incomparable, su falta de motivación lo hace fácil de derrotar en batalla.",
+      "abilities": ["Truant"],
+      "weaknesses": ["Lucha"]
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragón",
+      "category": "Dragón",
+      "image": "assets/Salamence.png",
+      "description": "Salamence es conocido por su ferocidad en la batalla y su velocidad increíble. Puede volar a altas velocidades y atacar a sus oponentes desde el cielo con sus garras afiladas y su aliento de fuego.",
+      "abilities": ["Intimidate", "Moxie"],
+      "weaknesses": ["Hielo", "Dragón", "Hada"]
+    },
+    {
+      "name": "Gardevoir",
+      "type": "Psíquico",
+      "category": "Emoción",
+      "image": "assets/Gardevoir.png",
+      "description": "Gardevoir puede leer los pensamientos y las emociones de los seres humanos y Pokémon. Es conocido por su lealtad y disposición para proteger a su entrenador a cualquier costo.",
+      "abilities": ["Synchronize", "Trace"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Slaking",
+      "type": "Normal",
+      "category": "Holgazán",
+      "image": "assets/Slaking.png",
+      "description": "Slaking es extremadamente perezoso y solo se despierta para comer y luchar. Aunque su fuerza es incomparable, su falta de motivación lo hace fácil de derrotar en batalla.",
+      "abilities": ["Truant"],
+      "weaknesses": ["Lucha"]
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragón",
+      "category": "Dragón",
+      "image": "assets/Salamence.png",
+      "description": "Salamence es conocido por su ferocidad en la batalla y su velocidad increíble. Puede volar a altas velocidades y atacar a sus oponentes desde el cielo con sus garras afiladas y su aliento de fuego.",
+      "abilities": ["Intimidate", "Moxie"],
+      "weaknesses": ["Hielo", "Dragón", "Hada"]
+    },
+    {
+      "name": "Flygon",
+      "type": "Tierra",
+      "category": "Libélula",
+      "image": "assets/Flygon.png",
+      "description": "Flygon es conocido por su habilidad para controlar el clima y crear tormentas de arena. Puede volar a altas velocidades y lanzar ráfagas de arena hacia sus enemigos.",
+      "abilities": ["Levitate"],
+      "weaknesses": ["Agua", "Hielo", "Dragón"]
+    },
+    {
+      "name": "Milotic",
+      "type": "Agua",
+      "category": "Elegancia",
+      "image": "assets/Milotic.png",
+      "description": "Milotic es considerado uno de los Pokémon más bellos y elegantes del mundo. Su belleza es legendaria y su presencia tiene el poder de calmar incluso a los Pokémon más agresivos.",
+      "abilities": ["Marvel Scale", "Competitive"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Metagross",
+      "type": "Acero",
+      "category": "Iron Leg",
+      "image": "assets/Metagross.png",
+      "description": "Metagross es un Pokémon extremadamente inteligente con un cerebro formado por cuatro cuerpos unidos. Puede calcular miles de movimientos en segundos y planificar estrategias complejas en la batalla.",
+      "abilities": ["Clear Body", "Light Metal"],
+      "weaknesses": ["Fuego", "Tierra", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Gardevoir",
+      "type": "Psíquico",
+      "category": "Emoción",
+      "image": "assets/Gardevoir.png",
+      "description": "Gardevoir puede leer los pensamientos y las emociones de los seres humanos y Pokémon. Es conocido por su lealtad y disposición para proteger a su entrenador a cualquier costo.",
+      "abilities": ["Synchronize", "Trace"],
+      "weaknesses": ["Bicho", "Fantasma", "Oscura"]
+    },
+    {
+      "name": "Slaking",
+      "type": "Normal",
+      "category": "Holgazán",
+      "image": "assets/Slaking.png",
+      "description": "Slaking es extremadamente perezoso y solo se despierta para comer y luchar. Aunque su fuerza es incomparable, su falta de motivación lo hace fácil de derrotar en batalla.",
+      "abilities": ["Truant"],
+      "weaknesses": ["Lucha"]
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragón",
+      "category": "Dragón",
+      "image": "assets/Salamence.png",
+      "description": "Salamence es conocido por su ferocidad en la batalla y su velocidad increíble. Puede volar a altas velocidades y atacar a sus oponentes desde el cielo con sus garras afiladas y su aliento de fuego.",
+      "abilities": ["Intimidate", "Moxie"],
+      "weaknesses": ["Hielo", "Dragón", "Hada"]
+    },
+    {
+      "name": "Flygon",
+      "type": "Tierra",
+      "category": "Libélula",
+      "image": "assets/Flygon.png",
+      "description": "Flygon es conocido por su habilidad para controlar el clima y crear tormentas de arena. Puede volar a altas velocidades y lanzar ráfagas de arena hacia sus enemigos.",
+      "abilities": ["Levitate"],
+      "weaknesses": ["Agua", "Hielo", "Dragón"]
+    },
+    {
+      "name": "Milotic",
+      "type": "Agua",
+      "category": "Elegancia",
+      "image": "assets/Milotic.png",
+      "description": "Milotic es considerado uno de los Pokémon más bellos y elegantes del mundo. Su belleza es legendaria y su presencia tiene el poder de calmar incluso a los Pokémon más agresivos.",
+      "abilities": ["Marvel Scale", "Competitive"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragón",
+      "category": "Cielo",
+      "image": "assets/Rayquaza.png",
+      "description": "Rayquaza es el guardián de los cielos y se cree que controla el clima. Es un Pokémon extremadamente poderoso que puede volar a través de la estratosfera con facilidad.",
+      "abilities": ["Air Lock"],
+      "weaknesses": ["Hielo", "Dragón", "Hada", "Roca"]
+    },
+    {
+      "name": "Kyogre",
+      "type": "Agua",
+      "category": "Mar",
+      "image": "assets/Kyogre.png",
+      "description": "Kyogre es el amo de los mares y tiene el poder de controlar las mareas y las tormentas. Su presencia en el océano puede provocar maremotos y tsunamis.",
+      "abilities": ["Drizzle"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Groudon",
+      "type": "Tierra",
+      "category": "Continente",
+      "image": "assets/Groudon.png",
+      "description": "Groudon es el amo de la tierra y tiene el poder de crear continentes enteros con un solo paso. Su presencia en la tierra puede causar terremotos y erupciones volcánicas.",
+      "abilities": ["Drought"],
+      "weaknesses": ["Agua", "Planta", "Hielo"]
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragón",
+      "category": "Cielo",
+      "image": "assets/Rayquaza.png",
+      "description": "Rayquaza es el guardián de los cielos y se cree que controla el clima. Es un Pokémon extremadamente poderoso que puede volar a través de la estratosfera con facilidad.",
+      "abilities": ["Air Lock"],
+      "weaknesses": ["Hielo", "Dragón", "Hada", "Roca"]
+    },
+    {
+      "name": "Kyogre",
+      "type": "Agua",
+      "category": "Mar",
+      "image": "assets/Kyogre.png",
+      "description": "Kyogre es el amo de los mares y tiene el poder de controlar las mareas y las tormentas. Su presencia en el océano puede provocar maremotos y tsunamis.",
+      "abilities": ["Drizzle"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Groudon",
+      "type": "Tierra",
+      "category": "Continente",
+      "image": "assets/Groudon.png",
+      "description": "Groudon es el amo de la tierra y tiene el poder de crear continentes enteros con un solo paso. Su presencia en la tierra puede causar terremotos y erupciones volcánicas.",
+      "abilities": ["Drought"],
+      "weaknesses": ["Agua", "Planta", "Hielo"]
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragón",
+      "category": "Cielo",
+      "image": "assets/Rayquaza.png",
+      "description": "Rayquaza es el guardián de los cielos y se cree que controla el clima. Es un Pokémon extremadamente poderoso que puede volar a través de la estratosfera con facilidad.",
+      "abilities": ["Air Lock"],
+      "weaknesses": ["Hielo", "Dragón", "Hada", "Roca"]
+    },
+    {
+      "name": "Kyogre",
+      "type": "Agua",
+      "category": "Mar",
+      "image": "assets/Kyogre.png",
+      "description": "Kyogre es el amo de los mares y tiene el poder de controlar las mareas y las tormentas. Su presencia en el océano puede provocar maremotos y tsunamis.",
+      "abilities": ["Drizzle"],
+      "weaknesses": ["Planta", "Eléctrico"]
+    },
+    {
+      "name": "Groudon",
+      "type": "Tierra",
+      "category": "Continente",
+      "image": "assets/Groudon.png",
+      "description": "Groudon es el amo de la tierra y tiene el poder de crear continentes enteros con un solo paso. Su presencia en la tierra puede causar terremotos y erupciones volcánicas.",
+      "abilities": ["Drought"],
+      "weaknesses": ["Agua", "Planta", "Hielo"]
+    }
+]
